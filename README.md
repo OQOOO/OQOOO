@@ -13,6 +13,8 @@
 ### Database
 <img src="https://img.shields.io/badge/oracle-DA291C?style=for-the-badge&logo=oracle&logoColor=white"> 
 
+# 
+![OQOOO's github stats](https://github-readme-stats.vercel.app/api?username=OQOOO&show_icons=true)
 
 <!--
 **OQOOO/OQOOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
