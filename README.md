@@ -18,7 +18,7 @@
 ![OQOOO's github stats](https://github-readme-stats.vercel.app/api?username=OQOOO&show_icons=true)
 
 ### BACKJOON
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjid3007)](https://solved.ac/bjid3007/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjid3007)](https://solved.ac/bjid3007)
 <!--
 **OQOOO/OQOOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
